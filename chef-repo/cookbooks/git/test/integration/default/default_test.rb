@@ -1,4 +1,4 @@
-# InSpec test for recipe git_cookbook::default
+# InSpec test for recipe git::default
 
 # The InSpec reference, with examples and extensive documentation, can be
 # found at https://docs.chef.io/inspec/resources/

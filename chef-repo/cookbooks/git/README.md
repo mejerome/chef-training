@@ -1,4 +1,4 @@
-# git_cookbook
+# git
 
 TODO: Enter the cookbook description here.
 

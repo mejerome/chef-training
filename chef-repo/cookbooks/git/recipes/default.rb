@@ -1,6 +1,6 @@
 #
-# Cookbook:: git_cookbook
+# Cookbook:: git
 # Recipe:: default
 #
 # Copyright:: 2020, The Authors, All Rights Reserved.
-# package 'git'
+package 'git'
