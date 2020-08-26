@@ -33,4 +33,6 @@ describe file '/var/website/builder.txt' do
   its('content') { should match '/Jerome Tabiri built this' }
 end
 
-
+describe file '/var/website/logo.png' do
+  it { should exist }
+end
