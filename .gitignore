@@ -1,5 +1,4 @@
 # Chef
-chef-repo/.chef/*.pem
-chef-repo/.chef/encrypted_data_bag_secret
+chef-repo/.chef/trusted_certs/
 
 .vagrant
