@@ -1,4 +1,13 @@
 # Chef
 **/chef-repo/.chef/trusted_certs/
+Berksfile.lock
+.kitchen
+kitchen.local.yml
+vendor/
+.coverage/
+.zero-knife.rb
+Policyfile.lock.json
+.trusted_certs
+
 
 **/.vagrant
