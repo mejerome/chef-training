@@ -1,4 +1,4 @@
 # Chef
-chef-repo/.chef/trusted_certs/
+**/chef-repo/.chef/trusted_certs/
 
-.vagrant
+**/.vagrant
