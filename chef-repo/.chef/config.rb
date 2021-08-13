@@ -5,5 +5,5 @@ log_level                :info
 log_location             STDOUT
 node_name                "mejerome"
 client_key               "#{current_dir}/mejerome.pem"
-chef_server_url          "https://api.chef.io/organizations/chefkata"
+chef_server_url          "https://api.chef.io/organizations/jerome19_lab"
 cookbook_path            ["#{current_dir}/../cookbooks"]

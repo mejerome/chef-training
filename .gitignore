@@ -8,6 +8,6 @@ vendor/
 .zero-knife.rb
 Policyfile.lock.json
 .trusted_certs
-
+**.pem
 
 **/.vagrant
