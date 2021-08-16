@@ -3,7 +3,10 @@
 # Recipe:: default
 #
 # Copyright:: 2021, The Authors, All Rights Reserved.
-apt_update 'update'
+apt_update 'Update the apt cache daily' do
+    frequency 86_400
+    action :periodic
+end
 
 package 'apache2' do
     action: install
